@@ -1,0 +1,16 @@
+@media (max-width :740px) {
+    .food-img {
+        float: none;
+        width: 100% ;
+        margin-right: 16px;
+        margin-bottom: 10px;
+    }
+    
+    .food-info-img {
+        width: 100%;
+    }
+    
+    .food-text p {
+        width: 100%;
+    }
+}
